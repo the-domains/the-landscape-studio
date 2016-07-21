@@ -11,6 +11,8 @@ color:
     - '#4D4D4D'
     - '#333333'
 layout_spectrum: 0.14129230473190546
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf556f84-c603-46c5-ba22-fe598aeaa632.png
 name: The Landscape Studio
 navigation:
   - id: 1e7dbfb5-0fd4-49c6-83f7-c449427071cf
