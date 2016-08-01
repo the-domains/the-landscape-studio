@@ -15,9 +15,7 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf556f84-c603-46c5-ba22-fe598aeaa632.png
 name: The Landscape Studio
 navigation:
-  - id: 1e7dbfb5-0fd4-49c6-83f7-c449427071cf
-    url: >-
-      2016-04-15-my-perfect-24-hours-if-i-were-a-teleporting-billionaire-or-t.html
-    name: 'My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away'
+  - name: 'My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away'
+    id: 1e7dbfb5-0fd4-49c6-83f7-c449427071cf
     type: content
-title: Landscape Design & Architecture
+title: The Landscape Studio
