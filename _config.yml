@@ -1,16 +1,16 @@
-typography_spectrum: 0.4760497594252229
+typography_spectrum: 0.7160441742744297
 color:
-  brandStrength: 0.10680163162760437
-  lightness: 0.6676230339799076
-  saturation: 0.17827289085835218
-  rhythmicContrast: 0.3635196224786341
+  brandStrength: 0.27037938963621855
+  lightness: 0.9768129703588784
+  saturation: 0.8981019733473659
+  rhythmicContrast: 0.04429826606065035
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.14129230473190546
+layout_spectrum: 0.64890042017214
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf556f84-c603-46c5-ba22-fe598aeaa632.png
 name: The Landscape Studio
